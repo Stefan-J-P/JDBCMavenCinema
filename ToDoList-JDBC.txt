@@ -1,0 +1,31 @@
+=============================================================================
+DO ZROBIENIA:
+0. TESTY JEDNOSTKOWE
+1. MenuService: HistoryOption1: Genre Tablica dokończ!
+
+MOCKUJ TYLKO METODY REPOZYTORYJNE
+
+=============================================================================
+PYTANIA: 
+1.	HistoryServiceTest: test2a()
+	Zwracana liczba elementów w liście.
+2.	HistoryServiceTest: test3a()
+	DOES CUSTOMER HAVE A LOYALTY CARD? :   true
+	CUSTOMER: null
+3.	StatisticsTest: testowanie metod z mapą, bez argumentów
+	Dlaczego nie mogę zwrócić mapy.
+
+
+=============================================================================
+DO ZROBIENIA NA KOŃCU 
+- Osobna klasa walidująca do setterów
+- MovieDataManager: Metody mają być NIEstatyczne
+- MovieDataManager: Lista filmów z pliku JSON
+
+Wondershare Filmora
+
+
+
+
+
+

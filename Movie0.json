@@ -1,0 +1,11 @@
+{
+  "title": "DIE HARD",
+  "genre": "CRIME",
+  "price": 30.54,
+  "duration": 194,
+  "releaseDate": {
+    "year": 2019,
+    "month": 4,
+    "day": 12
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "title": "HULK",
+  "genre": "ACTION",
+  "price": 28.68,
+  "duration": 108,
+  "releaseDate": {
+    "year": 2019,
+    "month": 5,
+    "day": 24
+  }
+}

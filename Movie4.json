@@ -1,0 +1,11 @@
+{
+  "title": "HULK",
+  "genre": "THRILLER",
+  "price": 25.7,
+  "duration": 62,
+  "releaseDate": {
+    "year": 2019,
+    "month": 7,
+    "day": 26
+  }
+}

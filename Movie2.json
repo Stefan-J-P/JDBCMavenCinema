@@ -1,0 +1,11 @@
+{
+  "title": "IRON MAN",
+  "genre": "DRAMA",
+  "price": 14.61,
+  "duration": 139,
+  "releaseDate": {
+    "year": 2019,
+    "month": 9,
+    "day": 18
+  }
+}

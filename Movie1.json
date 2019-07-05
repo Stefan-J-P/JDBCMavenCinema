@@ -1,0 +1,11 @@
+{
+  "title": "ANT MAN",
+  "genre": "ADVENTURE",
+  "price": 33.80,
+  "duration": 145,
+  "releaseDate": {
+    "year": 2019,
+    "month": 4,
+    "day": 3
+  }
+}
