@@ -10,8 +10,8 @@ import java.util.Properties;
 
 public class EmailService
 {
-    private static final String emailAddress = "stiepx@gmail.com";
-    private static final String emailPassword = "luzik123";
+    private static final String emailAddress = "**********";
+    private static final String emailPassword = "******";
 
     private void prepareEmailMessage(MimeMessage message, String to, String title, String html)
     {
